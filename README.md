@@ -27,7 +27,7 @@ I work on that through open-source projects, [consulting](https://lefevre.dev/),
 
 #### 📫 How to reach me
 
-- Twitter: [@Progi1984](https://twitter.com/matthieunapoli)
+- Twitter: [@Progi1984](https://twitter.com/Progi1984)
 - Let's work together: [fr.lefevre@gmail.com](mailto:fr.lefevre@gmail.com)
 
 <!--
