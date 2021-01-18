@@ -17,7 +17,7 @@ I work on some side projects :
 
 - [PapaDisMoi](https://papadismoi.fr): a 🇫🇷 blog which answer to children questions
 
-<a href="https://papadismoi.fr"><img src="https://papadismoi.fr/wp-content/uploads/2013/12/logo_fb.png" width=200 /></a>
+<a href="https://papadismoi.fr"><img src="https://papadismoi.fr/img/logo_fb.png" width=200 /></a>
 
 I work as consultant, too. Company sponsorships help me make open-source sustainable: [sponsor my work](https://github.com/sponsors/Progi1984).
 
