@@ -11,9 +11,9 @@ I work on some side projects :
 
 <a href="https://skypaper.io"><img src="https://www.skypaper.io/build/images/logo.svg" width=300 /></a>
 
-- [Datatlas](https://datatlas.com): a website which give some geographical data at differents levels
+- [Dataviatici](https://dataviatici.com): a website which give some geographical data at differents levels
 
-<a href="https://datatlas.com"><img src="http://datatlas.com/images/favicon.png" width=150 /></a>
+<a href="https://dataviatici.com"><img src="http://dataviatici.com/images/favicon.png" width=150 /></a>
 
 - [PapaDisMoi](https://papadismoi.fr): a 🇫🇷 blog which answer to children questions
 
