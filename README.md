@@ -28,7 +28,7 @@ I work on that through open-source projects, [consulting](https://lefevre.dev/),
 #### 📫 How to reach me
 
 - Twitter: [@Progi1984](https://twitter.com/Progi1984)
-- Let's work together: [fr.lefevre@gmail.com](mailto:fr.lefevre@gmail.com)
+- Let's work together: [franck@lefevre.dev](mailto:franck@lefevre.dev)
 
 <!--
 **Progi1984/Progi1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
