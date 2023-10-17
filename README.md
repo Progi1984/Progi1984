@@ -28,7 +28,10 @@ I work on that through open-source projects, [consulting](https://lefevre.dev/),
 #### 📫 How to reach me
 
 - Twitter: [@Progi1984](https://twitter.com/Progi1984)
-- Let's work together: [franck@lefevre.dev](mailto:franck@lefevre.dev)
+- If you're looking for someone to fix a bug or implement a feature in
+  - PHPOffice ([PhpSpreadsheet](https://github.com/PHPOffice/PhpSpreadsheet), [PhpWord](https://github.com/PHPOffice/PhpWord), [PhpPresentation](https://github.com/PHPOffice/PhpPresentation))
+  - [PrestaShop](https://github.com/PrestaShop/PrestaShop)
+- My email is: [franck@lefevre.dev](mailto:franck@lefevre.dev)
 
 <!--
 **Progi1984/Progi1984** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
