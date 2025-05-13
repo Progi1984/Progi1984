@@ -13,7 +13,7 @@ I work on some side projects :
 
 - [Dataviatici](https://dataviatici.com): a website which give some geographical data at differents levels
 
-<a href="https://dataviatici.com"><img src="http://dataviatici.com/images/favicon.png" width=150 /></a>
+<a href="https://dataviatici.com"><img src="https://www.dataviatici.com/assets/thumbnails/228/favicon.11f5bda3b55011a87e9fe796335fb10c.png" width=150 /></a>
 
 - [PapaDisMoi](https://papadismoi.fr): a 🇫🇷 blog which answer to children questions
 
